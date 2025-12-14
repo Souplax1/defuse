@@ -1,7 +1,6 @@
 <div align="center">
-  <img src="https://pan.samyyc.dev/s/VYmMXE" />
   <h2><strong>InstaDefuse</strong></h2>
-  <h3>No description.</h3>
+  <h3>Conditional fast defuse - blocks if molly near or T alive.</h3>
 </div>
 
 <p align="center">
@@ -10,19 +9,6 @@
   <img src="https://img.shields.io/github/stars/yeezy/defuse?style=flat&logo=github" alt="Stars">
   <img src="https://img.shields.io/github/license/yeezy/defuse" alt="License">
 </p>
-
-## Getting Started (delete me)
-
-1. **Edit `PluginMetadata` Attribute**  
-   - Set your plugin's `Id`, `Name`, `Version`, `Author` and `Description`.
-2. **Edit `defuse.csproj`**  
-   - Set the `<AssemblyName>` property to match your plugin's main class name.
-   - Add any additional dependencies as needed.
-3. **Implement your plugin logic** in C#.
-   - Place your main plugin class in the root of the project.
-   - Use the SwiftlyS2 managed API to interact with the game and core.
-4. **Add resources**  
-   - Place any required files in the `gamedata`, `templates`, or `translations` folders as needed.
 
 ## Building
 
